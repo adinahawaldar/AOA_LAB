@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/AOA_LAB",
-      "program": "d:/AOA_LAB/build/Debug/outDebug",
+      "cwd": "d:/AOA_LAB/.git",
+      "program": "d:/AOA_LAB/.git/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
